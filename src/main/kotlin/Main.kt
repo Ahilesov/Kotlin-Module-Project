@@ -1,3 +1,13 @@
+import app.MenuArchive
+
+
 fun main(args: Array<String>) {
-    println("Hello World!")
+    println("Добро пожаловать в приложение «ЗАМЕТКИ»")
+    MenuArchive().menuArchive() // запускаем функцию Меню Архивов
 }
+
+
+
+
+
+
